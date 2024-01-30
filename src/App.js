@@ -1,10 +1,11 @@
-import { TextPanel } from "./TextPanel";
+// import { TextPanel } from "./TextPanel";
+import { CharacterList } from "./CharacterList";
 // import './App.css';
 
 function App() {
   return (
     <>
-      <TextPanel />
+      <CharacterList />
     </>
   );
 }
